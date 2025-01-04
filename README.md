@@ -1,11 +1,11 @@
-# MLAlgorithmsImplementaion
+## ML_Algorithms_Implementation
 
 
 All the codes are present in `code` folder, resultant images in the `images` folder, dataset is present in `dataset` folder and MNIST dataset is present in `MNIST` folder.
 
-# Implemented and analyzed the k-NN algorithm on the MNIST dataset, focused on efficiency and accuracy.
+## Implemented and analyzed the k-NN algorithm on the MNIST dataset, focused on efficiency and accuracy.
 
-# MNIST Handwritten Digits Recognition Using k-NN Algorithm
+## MNIST Handwritten Digits Recognition Using k-NN Algorithm
 
 ## Data Set
 Using the MNIST dataset, which includes training images, training labels, test images, and test labels.
